@@ -1,0 +1,6 @@
+{
+  "name": "Ooty Real Estate Map",
+  "description": "An interactive, high-fidelity map foundation for Ooty real estate, built with MapLibre GL and styled with custom administrative boundaries.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
